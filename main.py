@@ -1,5 +1,5 @@
 import TP1, TP2, TP6, TP8, TP_complementaire
-from genrate_pdf import generate_pdf_for_company
+from generate_pdf import generate_pdf_for_company
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
