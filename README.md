@@ -60,7 +60,7 @@ Chaque fichier PDF contient :
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ton-projet.git
+git clone [https://github.com/ton-projet.git](https://github.com/yaniri32/Projet_Final_Gr9)
 cd ton-projet
 python -m venv env
 source env/bin/activate  # ou env\Scripts\activate sous Windows
