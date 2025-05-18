@@ -17,17 +17,20 @@ Le code Python est organisé en modules, et un script 'main.py' orchestre l’en
 
 ## Structure du dépôt
 
-├── TP1.py # Scraping ratios financiers + Scraping variations de cours historiques
-├── TP2.py # Clustering d’entreprises
-├── TP3.py # Classification Buy/Sell/Hold
-├── TP4.py # Régression de rendement J+1
-├── TP5.py # Réseaux de Neurones pour la prédiction
-├── TP6.py # Scraping de news financières
-├── TP7.py # Fine-tuning BERT pour l’analyse de sentiment
-├── TP8.py # Classification de news et impact sur les variations de cours
-├── main.py # Script principal 
-├── report/ # Rapport final en PDF 
-└── outputs/ # Fichiers générés (CSV, logs, graphiques… à enlever eventuellement ?)
+```text
+├── TP1.py   # Scraping ratios financiers + scraping historique de cours
+├── TP2.py   # Clustering d’entreprises
+├── TP3.py   # Classification Buy/Sell/Hold
+├── TP4.py   # Régression de rendement J+1
+├── TP5.py   # Réseaux de Neurones pour la prédiction
+├── TP6.py   # Scraping de news financières
+├── TP7.py   # Fine-tuning BERT pour l’analyse de sentiment
+├── TP8.py   # Classification de news & impact sur les cours
+├── main.py  # Script principal orchestrant TP1 → TP8
+├── report/  # Rapport final en PDF (et sources LaTeX)
+└── outputs/ # Données générées (CSV, logs, graphiques… à enlever eventuellement ?)
+```
+
 
 
 ---
@@ -51,25 +54,25 @@ Le code Python est organisé en modules, et un script 'main.py' orchestre l’en
 Le rapport final se trouve dans report/Rapport.pdf.
 Structure du rapport :
 
-├── TP1.py # Scraping ratios financiers + Scraping variations de cours historiques
-├── TP2.py # Clustering d’entreprises
-├── TP3.py # Classification Buy/Sell/Hold
-├── TP4.py # Régression de rendement J+1
-├── TP5.py # Réseaux de Neurones pour la prédiction
-├── TP6.py # Scraping de news financières
-├── TP7.py # Fine-tuning BERT pour l’analyse de sentiment
-├── TP8.py # Classification de news et impact sur les variations de cours
-├── main.py # Script principal 
-├── report/ # Rapport final en PDF 
-└── outputs/ # Fichiers générés (CSV, logs, graphiques… à enlever eventuellement ?)
+```text
+├── Introduction   # Description
+├── Partie 1   # Description
+├── Partie 2  # Description
+├── Partie 3   # Description
+├── Partie 4   # Description
+├── Partie 5   # Description
+└── Conclusion   # Description
+```
 
 ---
 
 ## Contact 
 
+```text
 ├── arnaud.cheridi@dauphine.eu
 ├── yanis.aoudjit@dauphine.eu
-├── wayan.crain@dauphine.eu
+└── wayan.crain@dauphine.eu
+```
 
 
 
