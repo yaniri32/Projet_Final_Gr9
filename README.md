@@ -39,7 +39,8 @@ Le code Python est organisé en modules, et un script 'main.py' orchestre l’en
    git clone https://github.com/yaniri32/Projet_Final_Gr9.git
    cd Projet_Final_Gr9
 
-2. **Pour lancer l’intégralité du pipeline en une seule commande :** ```bash
+2. **Pour lancer l’intégralité du pipeline en une seule commande :**
+   ```bash
    python main.py
 
 
