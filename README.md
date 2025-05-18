@@ -1,6 +1,4 @@
-# Projet_Final_Gr9
-
-# Projet Final – Pipeline Data Science pour Recommandations Boursières
+# Projet Final Groupe 9 – Pipeline Data Science pour Recommandations Boursières
 
 ## Présentation
 Ce projet implémente un pipeline automatisé (exécuté chaque jour) qui :
